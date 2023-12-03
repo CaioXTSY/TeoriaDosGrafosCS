@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeoriaDosGrafosCS", "TeoriaDosGrafosCS\TeoriaDosGrafosCS.csproj", "{F157613E-93F3-499D-80E8-16657BB03742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F157613E-93F3-499D-80E8-16657BB03742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F157613E-93F3-499D-80E8-16657BB03742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F157613E-93F3-499D-80E8-16657BB03742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F157613E-93F3-499D-80E8-16657BB03742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69F69F2A-F2C9-4E56-8421-85D658D75913}
+	EndGlobalSection
+EndGlobal
